@@ -1,0 +1,22 @@
+body{
+    background-color:antiquewhite;
+}
+.topname h1{
+    padding-left: 100px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.content{
+    align-items: center;
+}
+.navbar1{
+ display: flex;
+ justify-content: center;
+ padding-bottom: 20px;
+}
+.content1{
+    padding-left: 30px;
+}  

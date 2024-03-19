@@ -1,0 +1,19 @@
+.head1{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    font-family: arial;
+    
+    font-size: 20x;
+}
+.touch{
+    padding-left:100px;
+  
+    text-align: justify;
+}
+.fill{
+    padding-left: 200px;
+    text-align: justify;
+  padding-right: 250px;
+
+}
